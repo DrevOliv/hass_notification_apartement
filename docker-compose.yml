@@ -1,0 +1,7 @@
+version: '3.8'  # Define the version of Docker Compose
+
+services:
+  python-app:
+    build: .
+    container_name: python-script-runner  # Name your container
+    command: python main.py  # Command to run your script
