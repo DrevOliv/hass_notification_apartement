@@ -1,0 +1,693 @@
+{"html":{
+    "pagineringgoold@lagenheter":"<span class=\"PaginationNextNotExists\">&rsaquo;</span>",
+    "alert":"",
+    "pagineringgonew@lagenheter":"<span class=\"PaginationPrevNotExists\">&lsaquo;</span>",
+    "objektlistabilder@lagenheter":"\n<ul class=\"objectlist\">\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=G3tzzzeCK34RN0hz2HXgzg..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Rydsvägen 256 A.33 med hyra 4 713\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=6a494a514b5065434f4765667356794e2b452b3434314e6c735172634b2b6656\">Rydsvägen 256 A.33</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Rydsvägen 256 A.33 med hyra 4 713\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=6a494a514b5065434f4765667356794e2b452b3434314e6c735172634b2b6656\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. &lt;/BR&gt;\n\n&lt;BR&gt;Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. &lt;/BR&gt;\n\n\n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=92\">Ryd</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">3 \n                     av\n 4\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">20.0 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">4 713 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">568p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=2mNMt6x9SvAqR9bOkTjcHQ..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Alsättersgatan 9 A.30 med hyra 5 428\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=543957724345556a4237584967652f455776563337546c7339484a2f35323635\">Alsättersgatan 9 A.30</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Alsättersgatan 9 A.30 med hyra 5 428\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=543957724345556a4237584967652f455776563337546c7339484a2f35323635\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. &lt;/BR&gt;\n\n&lt;BR&gt;Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. &lt;/BR&gt;\n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=92\">Ryd</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">3 \n                     av\n 3\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">25.2 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">5 428 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">568p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=AS533_EDVXr1RkmCY7vrVQ..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Rydsvägen 256 B.25 med hyra 4 713\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=472f5872323251346d6b717865372b59696b4c464158534e65415176372f6c2b\">Rydsvägen 256 B.25</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Rydsvägen 256 B.25 med hyra 4 713\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=472f5872323251346d6b717865372b59696b4c464158534e65415176372f6c2b\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. &lt;/BR&gt;\n\n&lt;BR&gt;Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. &lt;/BR&gt;\n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=92\">Ryd</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">2 \n                     av\n 2\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">20.0 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">4 713 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">568p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=my8Lb7t94ySwZBvDYGaiqQ..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Tröskaregatan 71.113 med hyra 5 993\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=4a742f6e4f31435735756f5668694f56314e63445a714934346a4c304f386e30\">Tröskaregatan 71.113</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Tröskaregatan 71.113 med hyra 5 993\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=4a742f6e4f31435735756f5668694f56314e63445a714934346a4c304f386e30\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet i vårt rökfria hus från 2021. Lägenheterna har helkaklade  badrum och utrustad med en kombinerad tvättmaskin/torktumlare.&lt;/BR&gt; \n\n&lt;BR&gt;Welcome to a apartment in our non-smoking house from 2021. The bathroom is fully tiled and equipped with a combined washer/dryer.&lt;/BR&gt;  \n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=94\">Lambohov</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">1 </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">29.0 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">5 993 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">391p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=p9GAFOByEGzgv1gqv7d8Yg..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Västanågatan 28 C.204 med hyra 5 705\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=376e2f452f454e6367586542643858344150654d484537724531594a397a7551\">Västanågatan 28 C.204</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Västanågatan 28 C.204 med hyra 5 705\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=376e2f452f454e6367586542643858344150654d484537724531594a397a7551\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;RIVNINGSAVTAL. Bostaden ska byggas om preliminärt 2025. Därför hyrs den ut på Rivningsavtal till dess. Du kommer få mer information om datum för utflytt tre månader innan. För mer information om Rivningsavtal se https://www.studentbostader.se/sv/rivningsavtal. &lt;/BR&gt;\n&lt;BR&gt; DEMOLITION AGREEMENT. The apartment will be tentatively renovated in preliminary 2025. Therefore, it will be rented out on a demolition agreement, until the renovation starts. You will receive information when you are going to move out, three months before the renovation starts. For more information about Demolition agreement https://www.studentbostader.se/sv/rivningsavtal. &lt;/BR&gt;\n</p>\n            \n                \n\n\n\n\n\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=90A-F\">Flamman</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">2 \n                     av\n 3\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">20.0 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">5 705 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">535p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=wquooEiP2zdnTi4_CFu7BQ..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Björnkärrsgatan 8 C.33 med hyra 5 569\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=5774666870585a334842625a5057586564746a4a573270427444636d4649346d\">Björnkärrsgatan 8 C.33</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Björnkärrsgatan 8 C.33 med hyra 5 569\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=5774666870585a334842625a5057586564746a4a573270427444636d4649346d\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. &lt;/BR&gt;\n\n&lt;BR&gt;Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. &lt;/BR&gt;\n\n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=92\">Ryd</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">3 \n                     av\n 3\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">26.3 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">5 569 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">1296p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n    <li class=\"objektlista__listpost \">\n        <div class=\"objektlista__listpost__bildcontainer\">\n        \n            <img class=\"objektlista__listpost__bild\" data-src=\"https://marknad.studentbostader.se/bilder/?fid=VRwDWy7r7z2B7MqdtJh6GA..\" alt=\"\" />\n        \n        </div>\n\n        <div class=\"objektlista__listpost__intro\">\n            \n                <strong class=\"objektlista__listpost__rubrik\"><a title=\"Gå till objekt 1 rum, Rydsvägen 250 B.37 med hyra 5 554\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=34303431485179616852564430473734746e35304966435a6979615130657155\">Rydsvägen 250 B.37</a></strong>\n                <span class=\"objektlista__listpost__intro__typ\">\n                    <a title=\"Gå till objekt 1 rum, Rydsvägen 250 B.37 med hyra 5 554\" href=\"/soker-bostad/lediga-bostader/bostad/?refid=34303431485179616852564430473734746e35304966435a6979615130657155\">\n                        \n                        1 rum</a>\n                </span>\n            \n            <p class=\"objektlista__listpost__intro__fritext\">&lt;BR&gt;Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. &lt;/BR&gt;\n\n&lt;BR&gt;Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. &lt;/BR&gt;\n\n</p>\n            \n                \n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n\n            \n        </div>\n\n        <dl class=\"objektlista__listpost__detaljer\">\n            \n            \n            \n                <dt class=\"omrade\"> Område:\n</dt>\n                \n                    <dd class=\"omrade\"><a  href=\"?omr=92\">Ryd</a></dd>\n                \n            \n            \n            \n                <dt class=\"vaning\"> Våning:\n</dt>\n                <dd class=\"vaning\">3 \n                     av\n 3\n                </dd>\n            \n            \n                <dt class=\"yta\"> Yta:\n</dt>\n                <dd class=\"yta\">25.2 m&sup2;</dd>\n            \n            \n                <dt class=\"hyra\"> Hyra:\n</dt>\n                <dd class=\"hyra\">5 554 kr/mån</dd>\n            \n            \n                <dt class=\"inflytt\"> Inflyttning:\n</dt>\n                <dd class=\"inflytt\">2024-10-01</dd>\n            \n            \n            \n            \n                <dt class=\"poang\"> objektlista.bilder.rubrik.poang\n</dt>\n                <dd class=\"poang\">568p</dd>\n            \n            \n            \n                \n            \n        </dl>\n    </li>\n\n</ul>\n",
+    "objektsortering":"\n\n\n\n\n\n\n<div class=\"btn-group\">\n    <a class=\"btn dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">\n        <i class=\"icon-circle-arrow-down\"></i>\n        <span>\n             Sortering\n:\n        </span>\n        <em>Publiceringsordning</em>\n        <span class=\"caret\"></span>\n    </a>\n    <ul class=\"dropdown-menu\">\n        \n        <li>\n            <a\n            tabindex=\"0\"\n            href=\"?sortering=publiceringstidpunkt&direction=ascending\">\n                <i class=\"icon-circle-arrow-up\"></i>\n            </a>\n        </li>\n        \n        <li class=\"divider\"></li>\n        \n        \n            \n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=adress\">\n                     Adress\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=hyra\">\n                     Hyra\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=inflyttdatum\">\n                     Ledig\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=omrade\">\n                     Område\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=typ\">\n                     Storlek\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=yta\">\n                     Yta\n\n                    </a>\n                </li>\n            \n        \n            \n            \n                <li>\n                    <a\n                    tabindex=\"0\"\n                    href=\"?sortering=poang\">\n                     Poäng\n\n                    </a>\n                </li>\n            \n        \n    </ul>\n</div>\n",
+    "objektfilter@lagenheter":"\n\n\n\n\n<form class=\"object-filter\" method=\"GET\">\n  <fieldset class=\"object-filter__fieldset\">\n    <legend class=\"object-filter__legend\">Filtrera din sökning</legend>\n    <input id=\"objektfilterAction\" type=\"hidden\" name=\"actionId\" value=\"\" />\n    <div class=\"form__selects\">\n      \n        \n          \n    \n<div class=\"form__group--text omraden\n    \n    \n    \n    \">\n\n    <label class=\"form__label--text\" for=\"omraden\">Områden\n        \n        \n    </label>\n\n    \n        \n    \n    \n        <select id=\"omraden\" name=\"omraden\" class=\"input-mini input-select\">\n            \n            \n                \n                \n                <option value=\"\" selected=\"selected\">Alla områden</option>\n            \n                \n                \n                <option value=\"90K\">Fjärilen</option>\n            \n                \n                \n                <option value=\"90A-F\">Flamman</option>\n            \n                \n                \n                <option value=\"96\">Irrblosset</option>\n            \n                \n                \n                <option value=\"94\">Lambohov</option>\n            \n                \n                \n                <option value=\"92\">Ryd</option>\n            \n                \n                \n                <option value=\"95\">T1</option>\n            \n                \n                \n                <option value=\"97\">Vallastaden</option>\n            \n        </select>\n    \n\n    \n    \n</div>\n\n\n\n        \n      \n      \n        \n          \n    \n<div class=\"form__group--text egenskaper\n    \n    \n    \n    \">\n\n    <label class=\"form__label--text\" for=\"egenskaper\">Boendeform\n        \n        \n    </label>\n\n    \n        \n    \n    \n        <select id=\"egenskaper\" name=\"egenskaper\" class=\"input-mini input-select\">\n            \n            \n                \n                \n                <option value=\"\" selected=\"selected\">Boendeform</option>\n            \n                \n                \n                <option value=\"1015\">Möblerad</option>\n            \n                \n                \n                <option value=\"1016\">Omöblerad</option>\n            \n                \n                \n                <option value=\"SNABB\">Bostad direkt</option>\n            \n        </select>\n    \n\n    \n    \n</div>\n\n\n\n        \n      \n      \n      \n        \n          \n    \n<div class=\"form__group--text oboTyper\n    \n    \n    \n    \">\n\n    <label class=\"form__label--text\" for=\"oboTyper\">Typer\n        \n        \n    </label>\n\n    \n        \n    \n    \n        <select id=\"oboTyper\" name=\"oboTyper\" class=\"input-mini input-select\">\n            \n            \n                \n                \n                <option value=\"\">Alla storlekar</option>\n            \n                \n                \n                <option value=\"SA1\" selected=\"selected\">1 rum</option>\n            \n                \n                \n                <option value=\"SA2\">2 rum</option>\n            \n                \n                \n                <option value=\"SA3\">3 rum </option>\n            \n                \n                \n                <option value=\"SA5\">5 rum</option>\n            \n                \n                \n                <option value=\"SK1\">Korridorrum</option>\n            \n        </select>\n    \n\n    \n    \n</div>\n\n\n\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    </div>\n    <div class=\"form__sliders\">\n      \n      \n    </div>\n  </fieldset>\n  \n  \n    <div class=\"form__buttons\">\n      \n        <a class=\"form__button--rensa\" role=\"button\" href=\"?rensa=true\">Rensa</a>\n      \n      <input type=\"submit\" class=\"form__button--submit\" value=\"Sök\" />\n    </div>\n  \n</form>\n",
+    "pagineringlista@lagenheter":"<div class=\"Meddelande PaginationList\"><span class=\"PaginationList PageLink\"><em>1</em></span></div>"
+  },
+  "data":{
+    "objektlistabilder@lagenheter":[
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=G3tzzzeCK34RN0hz2HXgzg..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=olshdX1AFUzgG6hQIdK3cg..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"A033",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Rydsvägen 256 A.33",
+        "omrade":"Ryd",
+        "omradeKod":"92",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=92",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"4 713",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":2E+1,
+        "ytaRange":null,
+        "vaning":"3",
+        "vaningRange":null,
+        "antalVaningar":"4",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=6a494a514b5065434f4765667356794e2b452b3434314e6c735172634b2b6656",
+        "hiss":"Ja",
+        "fritext":"<BR>Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. </BR>\n\n<BR>Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. </BR>\n\n\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"568p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=2mNMt6x9SvAqR9bOkTjcHQ..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=6jU4ZXmYCpNjmTulPInroA..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"A030",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Alsättersgatan 9 A.30",
+        "omrade":"Ryd",
+        "omradeKod":"92",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=92",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"5 428",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":25.2,
+        "ytaRange":null,
+        "vaning":"3",
+        "vaningRange":null,
+        "antalVaningar":"3",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=543957724345556a4237584967652f455776563337546c7339484a2f35323635",
+        "hiss":"Nej",
+        "fritext":"<BR>Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. </BR>\n\n<BR>Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. </BR>\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"568p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=AS533_EDVXr1RkmCY7vrVQ..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=qut1-6_TttSIeayOHh5xIA..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"B025",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Rydsvägen 256 B.25",
+        "omrade":"Ryd",
+        "omradeKod":"92",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=92",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"4 713",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":2E+1,
+        "ytaRange":null,
+        "vaning":"2",
+        "vaningRange":null,
+        "antalVaningar":"2",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=472f5872323251346d6b717865372b59696b4c464158534e65415176372f6c2b",
+        "hiss":"Ja",
+        "fritext":"<BR>Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. </BR>\n\n<BR>Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. </BR>\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"568p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=my8Lb7t94ySwZBvDYGaiqQ..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=lfxh4Ex7bzHQaJfphELnng..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"1113",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Tröskaregatan 71.113",
+        "omrade":"Lambohov",
+        "omradeKod":"94",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=94",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"5 993",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":29,
+        "ytaRange":null,
+        "vaning":"1",
+        "vaningRange":null,
+        "antalVaningar":null,
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=4a742f6e4f31435735756f5668694f56314e63445a714934346a4c304f386e30",
+        "hiss":"Ja",
+        "fritext":"<BR>Välkommen till en lägenhet i vårt rökfria hus från 2021. Lägenheterna har helkaklade  badrum och utrustad med en kombinerad tvättmaskin/torktumlare.</BR> \n\n<BR>Welcome to a apartment in our non-smoking house from 2021. The bathroom is fully tiled and equipped with a combined washer/dryer.</BR>  \n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"391p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=p9GAFOByEGzgv1gqv7d8Yg..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=gui5-0u9H3a4y8ngYHBdNA..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"8204",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Västanågatan 28 C.204",
+        "omrade":"Flamman",
+        "omradeKod":"90A-F",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=90A-F",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"5 705",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":2E+1,
+        "ytaRange":null,
+        "vaning":"2",
+        "vaningRange":null,
+        "antalVaningar":"3",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=376e2f452f454e6367586542643858344150654d484537724531594a397a7551",
+        "hiss":"Nej",
+        "fritext":"<BR>RIVNINGSAVTAL. Bostaden ska byggas om preliminärt 2025. Därför hyrs den ut på Rivningsavtal till dess. Du kommer få mer information om datum för utflytt tre månader innan. För mer information om Rivningsavtal se https://www.studentbostader.se/sv/rivningsavtal. </BR>\n<BR> DEMOLITION AGREEMENT. The apartment will be tentatively renovated in preliminary 2025. Therefore, it will be rented out on a demolition agreement, until the renovation starts. You will receive information when you are going to move out, three months before the renovation starts. For more information about Demolition agreement https://www.studentbostader.se/sv/rivningsavtal. </BR>\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n\n",
+        "antalIntresse":null,
+        "poang":"535p",
+        "egenskaper":[
+
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=wquooEiP2zdnTi4_CFu7BQ..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=RiBnLJT0xyATAtcUu2dbCw..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"C033",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Björnkärrsgatan 8 C.33",
+        "omrade":"Ryd",
+        "omradeKod":"92",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=92",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"5 569",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":26.3,
+        "ytaRange":null,
+        "vaning":"3",
+        "vaningRange":null,
+        "antalVaningar":"3",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=5774666870585a334842625a5057586564746a4a573270427444636d4649346d",
+        "hiss":"Ja",
+        "fritext":"<BR>Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. </BR>\n\n<BR>Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. </BR>\n\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"1296p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      },
+      {
+        "bild":{
+          "url":"https://marknad.studentbostader.se/bilder/?fid=VRwDWy7r7z2B7MqdtJh6GA..",
+          "text":null
+        },
+        "bilder":[
+          {
+            "url":"https://marknad.studentbostader.se/bilder/?fid=nzatiFSchbhHqfTbSXeyCw..",
+            "text":null
+          }
+        ],
+        "showObjektNr":true,
+        "showPPlatsNr":false,
+        "objektNr":null,
+        "tinyObjektNr":"B037",
+        "platsNr":null,
+        "fordonRegnr":null,
+        "adress":"Rydsvägen 250 B.37",
+        "omrade":"Ryd",
+        "omradeKod":"92",
+        "omradeIkon":null,
+        "ariaLabel":null,
+        "omradeUrl":"?omr=92",
+        "omradeUrlTarget":"",
+        "kvarter":null,
+        "ort":null,
+        "fastighetsBeteckning":null,
+        "byggAr":null,
+        "ombyggAr":null,
+        "hyraLabel":"Hyra",
+        "hyra":"5 554",
+        "hyraEnhet":"kr/mån",
+        "typLabel":"Storlek/Typ",
+        "typ":"1 rum",
+        "typRange":null,
+        "typOvergripande":"1 rum",
+        "yta":25.2,
+        "ytaRange":null,
+        "vaning":"3",
+        "vaningRange":null,
+        "antalVaningar":"3",
+        "inflyttningDatumLabel":"Tillträde",
+        "objektNummerLabel":"Objektnummer",
+        "inflyttningDatum":"2024-10-01",
+        "inflyttningTidigareDatumLabel":"Ledigt fr.o.m.",
+        "inflyttningTidigareDatum":null,
+        "getAntalManaderUppsagningLabel":null,
+        "antalManaderUppsagning":null,
+        "detaljUrl":"/soker-bostad/lediga-bostader/bostad/?refid=34303431485179616852564430473734746e35304966435a6979615130657155",
+        "hiss":"Nej",
+        "fritext":"<BR>Välkommen till en lägenhet belägen i Ryd. Här har du nära till det mesta – det lokala centrumet, utestället Herrgårn, universitetet och Linköping city. </BR>\n\n<BR>Welcome to an apartment that’s located in Ryd. Here you are close to pretty much everything - local center, the student pub Herrgårn, the University and Linköping city. </BR>\n\n",
+        "publiceringstexter":[
+
+        ],
+        "egenskaperHtml":"\n\n\n\n\n<div class=\"ObjektEgenskaper\">\n    \n        \n            <div class=\"PropertyItem Egenskap-1016\"  rel=\"tooltip\" data-placement=\"top\" data-title=\"Ej möblerad\" >\n        \n        <em class=\"Egenskap Egenskap-1016\"></em>\n        <span> Omöblerad\n</span></div>\n</div>\n",
+        "antalIntresse":null,
+        "poang":"568p",
+        "egenskaper":[
+          {
+            "id":"1016",
+            "beskrivning":"Ej möblerad",
+            "beskrivningDetalj":"Ej möblerad",
+            "beskrivningKort":"Ej möblerad"
+          }
+        ],
+        "cssClasses":[
+
+        ],
+        "objektNrNytt":null,
+        "kartURL":null,
+        "infoItems":[
+
+        ],
+        "infoItemsList":[
+
+        ],
+        "lghNr":null,
+        "onskas":null,
+        "annonsTyp":null,
+        "publiceratDatum":"2024-08-11",
+        "publiceratSistaDatum":null,
+        "avtalsNummer":null,
+        "kundnrIntern":null,
+        "kundnrInternHg2":null,
+        "hg1Namn":null,
+        "hg2Namn":null,
+        "publiceringsTyp":null,
+        "kontraktSlut":null,
+        "kontraktTyp":null,
+        "useOneLink":false,
+        "harIntresseanmaltsAvInloggadKund":false,
+        "omrBosok1Kod":null,
+        "omrBosok2Kod":null,
+        "customitem":null
+      }
+    ],
+    "paginering@lagenheter":{
+      "sist":"7",
+      "forst":"1",
+      "alla":"7"
+    }
+  },
+  "javascripts":[
+    "/assets/javascripts/sok.listor.js"
+  ],
+  "messages":[
+
+  ],
+  "events":[
+
+  ],
+  "openWindow":null,
+  "redirectUrl":null,
+  "replaceUrl":null,
+  "CSRFtoken":"cbd855b6-2861-4c57-bc8e-c87665878d26",
+  "reload":null
+}
