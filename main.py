@@ -2,6 +2,7 @@ from api import API
 from datahandler import DataHandler
 import schedule
 import time
+from home_assistant_api import HomeAssistantAPI
 
 
 class CheckApartment:
@@ -9,6 +10,7 @@ class CheckApartment:
 
         self.api = API()
         self.datahandler = DataHandler()
+        self.home_assistant_api = HomeAssistantAPI()
 
     def check_apartment(self):
         list_of_apartments = self.api.get_list_of_apartments()
@@ -17,6 +19,7 @@ class CheckApartment:
 
     def run(self):
         schedule.every().day.at("11:30").do(self.check_apartment)
+
 
         while True:
             schedule.run_pending()
