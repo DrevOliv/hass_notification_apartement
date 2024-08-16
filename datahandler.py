@@ -16,8 +16,7 @@ class DataHandler:
 
             vaning = apartment['vaning']
 
-            # hyra = hyra.replace(' ', '_')
-            hyra = hyra.replace(" ", '_')
+            hyra = ''.join(char for char in hyra if char.isalnum())
 
             self.__check_apartment(hyra, typ, yta, detaljUrl)
 

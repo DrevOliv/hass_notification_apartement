@@ -4,4 +4,6 @@ services:
   python-app:
     build: .
     container_name: python-script-runner  # Name your container
-    command: python main.py  # Command to run your script
+    command: python main.py # Command to run your script
+    volumes:
+      - ./logs:./logs
