@@ -11,7 +11,18 @@ class HomeAssistantAPI:
             "message": "Apartment found",
             "title": "Apartment finder",
             "data": {
+                "priority": "high",
                 "url": url,
+            }
+        }
+
+        self.message_apartment_found_with_image = lambda url, image_url: {
+            "message": "Apartment found",
+            "title": "Apartment finder",
+            "data": {
+                "priority": "high",
+                "url": url,
+                "image": image_url
             }
         }
 
@@ -28,9 +39,12 @@ class HomeAssistantAPI:
     def send_start_message(self):
         requests.post(self.HASS_URL, headers=self.hass_headers, json=self.start_message)
 
-    def send_notification(self, apartment_url):
+    def send_notification(self, apartment_url, image_url=None):
 
-        response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found(apartment_url))
+        if image_url:
+            response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found_with_image(apartment_url, image_url))
+        else:
+            response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found(apartment_url))
 
         # print(response.text)
 
