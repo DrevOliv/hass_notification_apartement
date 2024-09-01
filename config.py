@@ -9,4 +9,4 @@ min_yta = 25  # m^2
 
 hass_access_token = os.getenv("hass_access_token")
 
-homeassistant_url = "http://homeassistant.house:8123"
+homeassistant_url = "http://homeassistant:8123" # docker container name

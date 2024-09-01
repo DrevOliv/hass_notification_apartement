@@ -1,4 +1,7 @@
-version: '3.8'  # Define the version of Docker Compose
+
+networks:
+  homeassistant:
+    external: true
 
 services:
   hass_apartement:
@@ -7,3 +10,5 @@ services:
     command: python main.py # Command to run your script
     volumes:
       - ./logs:/app/logs
+    networks:
+      - homeassistant

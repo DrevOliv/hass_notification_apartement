@@ -1,10 +1,12 @@
 import requests
 from config import hass_access_token, homeassistant_url
+import logging
 
 
 class HomeAssistantAPI:
     def __init__(self):
         self.access_token = hass_access_token
+        logging.info(homeassistant_url)
         self.HASS_URL = f"{homeassistant_url}/api/services/notify/notify"
 
         self.message_apartment_found = lambda url: {
