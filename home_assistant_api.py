@@ -1,11 +1,11 @@
 import requests
-from config import hass_access_token
+from config import hass_access_token, homeassistant_url
 
 
 class HomeAssistantAPI:
     def __init__(self):
         self.access_token = hass_access_token
-        self.HASS_URL = "http://server.local:8123/api/services/notify/notify"
+        self.HASS_URL = f"{homeassistant_url}/api/services/notify/notify"
 
         self.message_apartment_found = lambda url: {
             "message": "Apartment found",
@@ -46,7 +46,7 @@ class HomeAssistantAPI:
         else:
             response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found(apartment_url))
 
-        # print(response.text)
+        #print(response.text)
 
 
 if __name__ == "__main__":
