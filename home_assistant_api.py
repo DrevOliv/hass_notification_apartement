@@ -45,6 +45,7 @@ class HomeAssistantAPI:
             response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found_with_image(apartment_url, image_url))
         else:
             response = requests.post(self.HASS_URL, headers=self.hass_headers, json=self.message_apartment_found(apartment_url))
+            
 
         # print(response.text)
 
