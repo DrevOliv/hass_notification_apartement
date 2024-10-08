@@ -1,11 +1,11 @@
 import requests
-from config import hass_access_token
+from config import hass_access_token, hass_url
 
 
 class HomeAssistantAPI:
     def __init__(self):
         self.access_token = hass_access_token
-        self.HASS_URL = "http://server.local:8123/api/services/notify/notify"
+        self.HASS_URL = f"{hass_url}/api/services/notify/notify"
 
         self.message_apartment_found = lambda url: {
             "message": "Apartment found",
