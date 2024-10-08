@@ -1,9 +1,14 @@
-version: '3.8'  # Define the version of Docker Compose
+
+networks:
+  homeassistant:
+    external: true
 
 services:
-  python-app:
+  hass_apartement:
     build: .
-    container_name: python-script-runner  # Name your container
+    container_name: hass_apartement  # Name your container
     command: python main.py # Command to run your script
     volumes:
       - ./logs:/app/logs
+    networks:
+      - homeassistant
